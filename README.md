@@ -158,6 +158,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## Author
+## Additional Notes
 
 Developed as an embedded systems game project.
