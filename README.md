@@ -5,7 +5,7 @@
 ![IDE](https://img.shields.io/badge/IDE-Arduino%20IDE-blue)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-orange)
 ![Hardware](https://img.shields.io/badge/Driver-MAX7219-green)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/badge/License-MIT-darkgray)
 
 <!-- ![Gameplay Demo](images/game_running.jpeg) -->
 <!-- <p align="center">
